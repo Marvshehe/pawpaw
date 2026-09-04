@@ -1,4 +1,4 @@
-# Rene Coffee (Coffee Blend) – Enhanced Store
+# MarvsBurgers (Burger ka sakin!) – Enhanced Store
 
 Functional coffee shop site with:
 
